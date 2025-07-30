@@ -1,6 +1,5 @@
-# AI Workflow Builder (FREE VERSION)
-
-A complete no-code workflow builder using **100% FREE** alternatives that enables users to visually create and interact with intelligent workflows.
+# AI Workflow Builder 
+A complete no-code workflow builder that enables users to visually create and interact with intelligent workflows.
 
 ## 🎯 Assignment Requirements Met
 
