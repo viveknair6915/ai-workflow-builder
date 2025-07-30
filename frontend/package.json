@@ -1,0 +1,15 @@
+{
+  "name": "ai-workflow-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-flow-renderer": "^11.6.6",
+    "axios": "^1.4.0",
+    "@mui/material": "^5.13.7"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
+} 

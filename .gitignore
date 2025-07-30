@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.egg-info/
+.env
+.env.*
+.DS_Store
+
+# FastAPI/ChromaDB
+chroma_db/
+instance/
+
+# Node/React
+node_modules/
+build/
+dist/
+.env.local
+.env.development
+.env.production
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+Thumbs.db
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Test/Temp
+*.log
+*.bak
+*.tmp
+*.swp
+
+# Assignment specific - exclude non-required files
+*.pdf
+sample_test.pdf
+env_template.txt
+
+# Batch files (not required by assignment)
+*.bat
+QUICK_START.bat
+run_all.bat
+setup_backend.bat
+setup_frontend.bat
+setup_database.bat
+start_backend.bat
+start_frontend.bat
+test_application.bat
+
+# Documentation files (optional)
+FREE_API_KEYS.md 
